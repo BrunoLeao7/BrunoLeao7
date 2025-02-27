@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Estou determinado a me tornar um desenvolvedor front-end, com aspirações de evoluir para full-stack. Este repositório no GitHub é onde compartilho meus projetos e aprendizados. Estou comprometido em expandir minhas habilidades e contribuir para a comunidade de desenvolvimento.</p>
+<p align="left">Estou determinado a me tornar um desenvolvedor front-end, com aspirações de evoluir para full-stack. Aqui é onde compartilho meus projetos e aprendizados. Estou comprometido em expandir minhas habilidades e contribuir para a comunidade de desenvolvimento.</p>
 
 ###
 

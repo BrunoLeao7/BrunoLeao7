@@ -2,7 +2,8 @@
 
 ###
 
-<p align="left">Estou determinado a me tornar um desenvolvedor front-end, com aspirações de evoluir para full-stack. Aqui é onde compartilho meus projetos e aprendizados. Estou comprometido em expandir minhas habilidades e contribuir para a comunidade de desenvolvimento.</p>
+<p align="left">Comecei minha jornada como dev front-end, mas hoje estou mergulhado na área de dados. No meu estágio, trabalho bastante com Power BI e DAX, puxando e tratando dados pra transformar em insights.</p>
+<p align="left">Tenho planos de aprender Python pra dar mais flexibilidade na manipulação e análise de dados, e vou registrando aqui meus projetos, estudos e experimentos ao longo do caminho.</p>
 
 ###
 
